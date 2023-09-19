@@ -1,6 +1,14 @@
 ### Hi 👋 My name is Nathan
 
-I am a full stack software engineer
+I am a full-stack software engineer passionate about contributing to determined teams that help people and solve problems. I specialize in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, PostgreSQL, and MongoDB. I strive to create maintainable and user-friendly applications with genuine fervor and dedication.
+
+Currently, I am contributing to an open-source tool called Next.Nav, which is a VS Code Extension for navigating and modifying routes in Next.js applications. 
+
+Outside of software engineering, I spend my time reading philosophical books, playing violin, visiting the San Diego Zoo and Birch Aquarium, and reading  Seinen Manga such as Berserk or Monster.
+
+Here's my [LinkedIn](https://www.linkedin.com/in/nathaniel-peel/)
+
+
 
 <!--
 **nathanpeel/nathanpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
